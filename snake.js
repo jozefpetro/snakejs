@@ -126,6 +126,8 @@ function initGame(){
 		allowDirChange: true,
 	};
 
+	//possibility of controll 2 snakes
+
 	// snake_2 = {
 	// 	xPos: 50, //position of first part of snake
 	// 	yPos: 50,
@@ -161,6 +163,7 @@ function initGame(){
 	
 }
 
+//init game for the first time after page load 
 initGame();
 
 
